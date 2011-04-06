@@ -1,0 +1,3 @@
+mkstrongpw is a Python script which can generate strong passwords. It has a built-in character sequence generator based on four character categories: lowercase letters, uppercase letters, numerical digits, and non-alphanumeric symbols. Users can configure the likelihood of each character category in the sequence. Users can also specify their own character sequence.
+
+For more information, see the main page at http://catdevblog.nickbair.net/2010/05/10/strong-password-generator-in-python/
