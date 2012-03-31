@@ -24,7 +24,7 @@ from optparse import OptionGroup
 # verbose output
 def vo(string=''):
 	if options.verbose:
-		print string
+		print(string)
 		return True
 	else:
 		return False
@@ -174,7 +174,7 @@ for i in range(0, number_of_passwords):
 		the_letter = random.choice(the_sequence),
 		the_pw += ''.join(the_letter)
 
-	print the_pw
+	print(the_pw)
 
 vo(str(options.number) + ' password(s) generated')
 vo()
