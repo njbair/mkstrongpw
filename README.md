@@ -1,6 +1,6 @@
 mkstrongpw - Strong Password Generator
 ======================================
-Copyright (C) 2012 Nick Bair
+Copyright &copy; 2012 Nick Bair
 
 
 License
